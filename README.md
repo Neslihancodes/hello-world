@@ -1,2 +1,3 @@
 # hello-world
 Ce dépôt est destiné à la pratique du flux GitHub
+J'essaye d'apprendre à utiliser Github et à coder
